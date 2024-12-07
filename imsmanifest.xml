@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6qbTDcisnnQ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Digital Health Champions Training</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Digital_Health_Champions_Training_ORG">
+    <organization identifier="Digital_Health_Champions_Training_ORG">
+      <title>Digital Health Champions Training</title>
+      <item identifier="Course_v2_SCO" isvisible="true" identifierref="__6qbTDcisnnQ_course_id_RES">
+        <title>Digital Health Champions Training</title>
+        <adlcp:masteryscore>75</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6qbTDcisnnQ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6FkwvwgdnEn.png" />
+      <file href="story_content/5lc9R0BCq2w_44100_48_0.mp3" />
+      <file href="story_content/5lGR2aUjw3y_44100_48_0.mp3" />
+      <file href="mobile/6R9ZTT36WwQ.jpg" />
+      <file href="story_content/5xCMISoHqXO_44100_48_0.mp3" />
+      <file href="mobile/5h8MTKNCdH5.png" />
+      <file href="story_content/6KRmObTtDQ3_44100_48_0.mp3" />
+      <file href="mobile/5jswi3goTZt_P_45_0_1554_900.jpg" />
+      <file href="story_content/5hJHienRHa6_44100_48_0.mp3" />
+      <file href="mobile/5W9o7jdUI4b.jpg" />
+      <file href="story_content/6oZQFkKSvAQ_44100_48_0.mp3" />
+      <file href="story_content/63TNImiuiiw_44100_48_0.mp3" />
+      <file href="mobile/6iL0tSj81HR.jpg" />
+      <file href="story_content/6PEjtH3JwcX_44100_48_0.mp3" />
+      <file href="mobile/63iL9ck9v4W.jpg" />
+      <file href="story_content/5bK6MDop9Sk_44100_48_0.mp3" />
+      <file href="mobile/6Ou0B7UYwPh_P_41_157_644_684.png" />
+      <file href="mobile/6gkrdxzCjjh.png" />
+      <file href="mobile/5Wt8DwvtW2y.jpg" />
+      <file href="story_content/6GgpznsL6ZT_44100_48_0.mp3" />
+      <file href="story_content/6mY04bWNUQA_44100_48_0.mp3" />
+      <file href="mobile/5n7kXUTimi7.jpg" />
+      <file href="mobile/5kt4WRA3Jhz.jpg" />
+      <file href="mobile/5grxfe0T6Zo.jpg" />
+      <file href="story_content/5dOvbj0YvDC_44100_48_0.mp3" />
+      <file href="story_content/5hXN2GA5R33_44100_48_0.mp3" />
+      <file href="mobile/5k6kvYzZtDQ.jpg" />
+      <file href="mobile/5y9QBQt8gxQ.png" />
+      <file href="story_content/6Lt7a4zW7Yq_44100_48_0.mp3" />
+      <file href="mobile/6n2UhhJnV0T.jpg" />
+      <file href="mobile/67Gs4HVMiJ1.jpg" />
+      <file href="story_content/6XvKC9sgrvG_44100_48_0.mp3" />
+      <file href="story_content/5wNABlIkJff_44100_48_0.mp3" />
+      <file href="mobile/60fCz5cA0WQ.jpg" />
+      <file href="mobile/5uWtQ6BxdN9.png" />
+      <file href="story_content/5sQzYjYED4c_44100_48_0.mp3" />
+      <file href="mobile/5mKY8Bob1Ta.jpg" />
+      <file href="mobile/6ET3EIKrJNT.png" />
+      <file href="story_content/5XdPq5hee5c_44100_48_0.mp3" />
+      <file href="story_content/63Lk6deG9P5_44100_48_0.mp3" />
+      <file href="story_content/6Al50OSU35q_44100_48_0.mp3" />
+      <file href="story_content/5zBqK0kFVkm_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/6feUeeRdukJ.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5sJ7iaMYfXq.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cK5XTIJAQ7.js" />
+      <file href="html5/data/js/5cqzxqH1fgo.js" />
+      <file href="html5/data/js/5d4B8fB6Mkq.js" />
+      <file href="html5/data/js/5lPsEzCi8OU.js" />
+      <file href="html5/data/js/5lU3iSnETXX.js" />
+      <file href="html5/data/js/5n7lhQIFWdS.js" />
+      <file href="html5/data/js/5nGYOakOks2.js" />
+      <file href="html5/data/js/5r8uzUu4t4U.js" />
+      <file href="html5/data/js/5tuXBuHlKVd.js" />
+      <file href="html5/data/js/62EOhYRbXaI.js" />
+      <file href="html5/data/js/65qEoX5PKqj.js" />
+      <file href="html5/data/js/69j6vaZdMNi.js" />
+      <file href="html5/data/js/69LK3xmhFaV.js" />
+      <file href="html5/data/js/6BuS2AbioFs.js" />
+      <file href="html5/data/js/6Bvhm7BNrd0.js" />
+      <file href="html5/data/js/6CHJ99jspDU.js" />
+      <file href="html5/data/js/6ePrYdCogi2.js" />
+      <file href="html5/data/js/6EUQnzWwWLp.js" />
+      <file href="html5/data/js/6JKmHMNAnyH.js" />
+      <file href="html5/data/js/6LGWZjD4GPK.js" />
+      <file href="html5/data/js/6O2nSIr9DSz.js" />
+      <file href="html5/data/js/6PpJNHyZWUs.js" />
+      <file href="html5/data/js/6QjOL5nhKt8.js" />
+      <file href="html5/data/js/6RCGBDNpHYn.js" />
+      <file href="html5/data/js/6RjKhBwFiLW.js" />
+      <file href="html5/data/js/6Rr37nFjWzR.js" />
+      <file href="html5/data/js/6SugO04ecc1.js" />
+      <file href="html5/data/js/6TevLtAirPJ.js" />
+      <file href="html5/data/js/6XWSwYQnThH.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
